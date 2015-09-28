@@ -1,0 +1,2 @@
+# elipcli
+Erlang ELIP Client
